@@ -36,4 +36,4 @@ Research publications
 
 Software modules developed as part of the study
 ======================================================
-В папке `code` представлен .ipybn notebook для проведения эксппериментов с PEP. Для лучших результатов может потребоваться оптимизатор MOSEK. 
+В папке `code` представлен  notebook  `code\Numerical_exp_ISTM.ipynb` для проведения эксппериментов с PEP. Для лучших результатов может потребоваться оптимизатор MOSEK. 
