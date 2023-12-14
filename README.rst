@@ -32,6 +32,7 @@ Research publications
     
     Kornilov, N., Gorbunov, E., Alkousa, M., Stonyakin, F., Dvurechensky, P., & Gasnikov, A. (2023). Intermediate Gradient Methods with Relative Inexactness. arXiv preprint arXiv:2310.00506.
 
+    https://arxiv.org/pdf/2310.00506.pdf
 
 
 Software modules developed as part of the study
